@@ -1,0 +1,34 @@
+html {
+    background-color: #F3F3E0;
+}
+
+.contenedor {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    align-content: center;
+}
+
+h1 {
+    color: #133E87;
+    font-size: 80px;
+}
+
+#ciudad {
+    border: none;
+    height: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#resultado {
+    color: #608BC1;
+}
+
+button {
+    background-color: #CBDCEB;
+    color: #133E87;
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+}
